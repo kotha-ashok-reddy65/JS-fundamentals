@@ -6,7 +6,7 @@
 // //
 // const b = 11;
 // console.log(a); //10
-// console.log(typeof a);
+// /console.log(typeof a);
 
 // var c = 12;
 // console.log(c);
